@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-class square:
+class Square:
     """Represent a Square"""
 
     def _init_(self, size):
